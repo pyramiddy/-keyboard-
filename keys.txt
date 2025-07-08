@@ -1,0 +1,3 @@
+					|Ver as teclas do keylogger no powershell|
+
+Invoke-Item "$env:TEMP\keylog.txt"
